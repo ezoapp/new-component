@@ -1,0 +1,15 @@
+{
+  "name": "xxx",
+  "authors": [
+    "xxx <xxx@xxx.com.tw>"
+  ],
+  "main": "xxx.html",
+  "keywords": [
+    "xxx"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "devDependencies": {
+    "gk-loader": "../gk-loader"
+  }
+}
